@@ -19,9 +19,9 @@
 ### 🛠 Мои проекты
 | 🔹 Проект | 📝 Описание | 🔗 Ссылка |
 |-----------|-----------|----------|
-| **Flower_Delivery_Basic** | Сайт с доставкой цветов и Telegram-ботом | [GitHub](https://github.com/Alexandr-sys2024/Flower_Delivery_Basic) |
-| **BotApiProject2** | Визуализация данных акций через Streamlit | [GitHub](https://github.com/Alexandr-sys2024/BotApiProject2) |
-| **Order-system** | Управление заказами (Tkinter + SQLite) | [GitHub](https://github.com/Alexandr-sys2024/Order-system) |
+| **Flower_Delivery_Basic** | Сайт с доставкой цветов и получение заказов через Telegram-бота | [GitHub](https://github.com/Alexandr-sys2024/Flower_Delivery_Basic) |
+| **Project-b22** | Инструмент анализа фондового рынка | [GitHub](https://github.com/Alexandr-sys2024/Project-b22) |
+| **ProjectAL-ST1** | Работа с древовидными структурами данных, графами, очередями и стеками | [GitHub](https://github.com/Alexandr-sys2024/ProjectAL-ST1) |
 
 ---
 
