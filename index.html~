@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="images/project1.jpg" class="card-img-top" alt="Проект 1">
+                        <img src="images/Flower Delivery Basic.jpg" class="card-img-top" alt="Проект 1">
                         <div class="card-body">
                             <h5 class="card-title">Flower_Delivery_Basic</h5>
                             <p class="card-text">Сайт с доставкой цветов и получение заказов через Telegram-бота.</p>
@@ -57,7 +57,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="images/project2.jpg" class="card-img-top" alt="Проект 2">
+                        <img src="images/NVDA.jpg" class="card-img-top" alt="Проект 2">
                         <div class="card-body">
                             <h5 class="card-title">Project-b22</h5>
                             <p class="card-text">Инструмент анализа фондового рынка.</p>
