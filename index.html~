@@ -169,7 +169,7 @@
         <h2 class="text-center">Контакты</h2>
         <p class="text-center">Вы можете связаться со мной через:</p>
         <div class="text-center">
-            <a href="https://github.com/USERNAME" class="btn btn-dark">GitHub</a>
+            <a href="https://github.com/Alexandr-sys2024/Alexandr-sys2024" class="btn btn-dark">GitHub</a>
             <a href="email:a.shubin2025@gmail.com" class="btn btn-primary">Email</a>
             <a href="https://t.me@AlexanderDTF" class="btn btn-primary">Telegram</a>
         </div>
