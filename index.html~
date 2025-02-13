@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="images/project3.jpg" class="card-img-top" alt="Проект 3">
+                        <img src="images/graph_visual.jpg" class="card-img-top" alt="Проект 3">
                         <div class="card-body">
                             <h5 class="card-title">ProjectAL-ST1</h5>
                             <p class="card-text">Работа с древовидными структурами данных, графами, очередями и стеками.</p>
