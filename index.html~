@@ -36,8 +36,8 @@
     <section id="about" class="container my-5 text-center">
         <h2>Обо мне</h2>
         <img src="images/image001.png" class="img-fluid rounded-circle mb-3" alt="Фото" width="200">
-        <p>Я разработчик, специализируюсь на **Python, Flask, Django, FastAPI**. Увлекаюсь искусственным интеллектом, машинным обучением и веб-технологиями.</p>
-        <p>Опыт работы с **PostgreSQL, SQLite, API, Telegram-ботами**. Разрабатываю проекты от аналитики данных до автоматизации процессов.</p>
+        <p>Я разработчик, специализируюсь на **Python, Flask, Django**. Увлекаюсь искусственным интеллектом, машинным обучением и веб-технологиями.</p>
+        <p>Опыт работы с **SQLite, API, Telegram-ботами**. Разрабатываю проекты различных направлений.</p>
     </section>
 
     <!-- Проекты -->
@@ -86,7 +86,7 @@
         <div class="text-center">
             <a href="https://github.com/Alexandr-sys2024" class="btn btn-dark">GitHub</a>
             <a href="mailto:a.shubin2025@gmail.com" class="btn btn-primary">Email - a.shubin2025@gmail.com</a>
-            <a href="https://t.me/AlexanderDTF" class="btn btn-primary">Telegram - @AlexanderDTF</a>
+            <a href="@AlexandrDTF" class="btn btn-primary">Telegram - @AlexanderDTF</a>
         </div>
     </section>
 
