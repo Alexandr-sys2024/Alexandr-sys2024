@@ -38,10 +38,10 @@
         <div class="row">
             <div class="col-md-6">
                 <h2>Обо мне</h2>
-                <p>Я разработчик, увлекаюсь Python, искусственным интеллектом и веб-разработкой. Люблю создавать полезные проекты.</p>
+                <p>Я разработчик, увлекаюсь Python, искусственным интеллектом и веб-разработкой. Люблю создавать интересные проекты.</p>
             </div>
             <div class="col-md-6 text-center">
-                <img src="images/profile.jpg" class="img-fluid rounded-circle" alt="Фото" width="200">
+                <img src="images/image001.png" class="img-fluid rounded-circle" alt="Фото" width="200">
             </div>
         </div>
     </section>
@@ -93,8 +93,9 @@
                     <div class="card">
                         <img src="https://via.placeholder.com/300" class="card-img-top" alt="Проект 4">
                         <div class="card-body">
-                            <h5 class="card-title">Проект 4: WeatherApp</h5>
-                            <p class="card-text">Приложение для просмотра прогноза погоды.</p>
+                            <h5 class="card-title">Проект 4: Order-system </h5>
+                            <p class="card-text">Это простое приложение для управления заказами с графическим интерфейсом,
+                                разработанное на  Tkinter  и использующее базу данных SQLite.</p>
                             <a href="https://github.com/USERNAME/PROJECT4" class="btn btn-primary">Смотреть</a>
                         </div>
                     </div>
@@ -105,8 +106,9 @@
                     <div class="card">
                         <img src="https://via.placeholder.com/300" class="card-img-top" alt="Проект 5">
                         <div class="card-body">
-                            <h5 class="card-title">Проект 5: CryptoTracker</h5>
-                            <p class="card-text">Отслеживание цен криптовалют в реальном времени.</p>
+                            <h5 class="card-title">Проект 5: ApiPrWeb2</h5>
+                            <p class="card-text">это приложение, которое получает случайные цитаты с API
+                                ZenQuotes.io и отображает их в веб-интерфейсе.</p>
                             <a href="https://github.com/USERNAME/PROJECT5" class="btn btn-primary">Смотреть</a>
                         </div>
                     </div>
@@ -117,8 +119,9 @@
                     <div class="card">
                         <img src="https://via.placeholder.com/300" class="card-img-top" alt="Проект 6">
                         <div class="card-body">
-                            <h5 class="card-title">Проект 6: To-Do App</h5>
-                            <p class="card-text">Менеджер задач с авторизацией.</p>
+                            <h5 class="card-title">Проект 6: ProjectAL-ST1</h5>
+                            <p class="card-text">Проект, работающий с древовидными структурами данных.
+                                Демонстрирует операции с графами, очередями и стеками для выполнения различных вычислительных задач.</p>
                             <a href="https://github.com/USERNAME/PROJECT6" class="btn btn-primary">Смотреть</a>
                         </div>
                     </div>
@@ -129,8 +132,9 @@
                     <div class="card">
                         <img src="https://via.placeholder.com/300" class="card-img-top" alt="Проект 7">
                         <div class="card-body">
-                            <h5 class="card-title">Проект 7: NewsScraper</h5>
-                            <p class="card-text">Парсер новостей с сайтов.</p>
+                            <h5 class="card-title">Проект 7: Project-b1</h5>
+                            <p class="card-text">это телеграм-бот , помогающий управлять личными финансами.
+                                Он позволяет пользователям отслеживать расходы, получать актуальные курсы валют и получать советы по экономике.</p>
                             <a href="https://github.com/USERNAME/PROJECT7" class="btn btn-primary">Смотреть</a>
                         </div>
                     </div>
@@ -141,8 +145,9 @@
                     <div class="card">
                         <img src="https://via.placeholder.com/300" class="card-img-top" alt="Проект 8">
                         <div class="card-body">
-                            <h5 class="card-title">Проект 8: AI ChatBot</h5>
-                            <p class="card-text">Чат-бот с NLP.</p>
+                            <h5 class="card-title">Проект 8: autoWeb2</h5>
+                            <p class="card-text">это Flask-приложение с системой регистрации и аутентификации пользователей.
+                                Оно использует Flask-Login для управления сеансами пользователей и Flask-SQLAlchemy для работы с базой данных.</p>
                             <a href="https://github.com/USERNAME/PROJECT8" class="btn btn-primary">Смотреть</a>
                         </div>
                     </div>
@@ -153,7 +158,7 @@
                     <div class="card">
                         <img src="https://via.placeholder.com/300" class="card-img-top" alt="Проект 9">
                         <div class="card-body">
-                            <h5 class="card-title">Проект 9: E-commerce Site</h5>
+                            <h5 class="card-title">Проект 9: rating-of-dishes</h5>
                             <p class="card-text">Интернет-магазин с Django.</p>
                             <a href="https://github.com/USERNAME/PROJECT9" class="btn btn-primary">Смотреть</a>
                         </div>
