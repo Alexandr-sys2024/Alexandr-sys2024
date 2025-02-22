@@ -28,6 +28,6 @@
 ### 📬 Как связаться
 📌 **GitHub:** [Alexandr-sys2024](https://github.com/Alexandr-sys2024)  
 📌 **Email:** [a.shubin2025@gmail.com](mailto:a.shubin2025@gmail.com)  
-📌 **Telegram:** [@AlexanderDTF](https://t.me/AlexanderDTF)
+📌 **Telegram:** [@AlexandrDTF](https://t.me/AlexanderDTF)
 
 ✍️ _Всегда открыт для новых идей и коллабораций!_
